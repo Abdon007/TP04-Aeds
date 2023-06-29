@@ -1,0 +1,15 @@
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\bin\Debug\net7.0\TP4Q03-FILA.exe
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\bin\Debug\net7.0\TP4Q03-FILA.deps.json
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\bin\Debug\net7.0\TP4Q03-FILA.runtimeconfig.json
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\bin\Debug\net7.0\TP4Q03-FILA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\bin\Debug\net7.0\TP4Q03-FILA.pdb
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.csproj.AssemblyReference.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.AssemblyInfoInputs.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.AssemblyInfo.cs
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.csproj.CoreCompileInputs.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\refint\TP4Q03-FILA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.pdb
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\TP4Q03-FILA.genruntimeconfig.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q03-FILA\obj\Debug\net7.0\ref\TP4Q03-FILA.dll

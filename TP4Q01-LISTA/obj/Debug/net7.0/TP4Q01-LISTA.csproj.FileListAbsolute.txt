@@ -1,0 +1,15 @@
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\bin\Debug\net7.0\TP4Q01-LISTA.exe
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\bin\Debug\net7.0\TP4Q01-LISTA.deps.json
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\bin\Debug\net7.0\TP4Q01-LISTA.runtimeconfig.json
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\bin\Debug\net7.0\TP4Q01-LISTA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\bin\Debug\net7.0\TP4Q01-LISTA.pdb
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.csproj.AssemblyReference.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.AssemblyInfoInputs.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.AssemblyInfo.cs
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.csproj.CoreCompileInputs.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\refint\TP4Q01-LISTA.dll
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.pdb
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\TP4Q01-LISTA.genruntimeconfig.cache
+C:\Users\gle11\Desktop\TP4 - Aluno\TP4Q01-LISTA\obj\Debug\net7.0\ref\TP4Q01-LISTA.dll
